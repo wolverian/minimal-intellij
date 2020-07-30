@@ -1,1 +1,2 @@
-rootProject.name = "IntelliJ Platform Plugin Template"
+rootProject.name = "minimal-intellij"
+
