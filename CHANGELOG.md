@@ -4,6 +4,8 @@
 
 ## [Unreleased]
 
+- Add Rust support.
+
 ### Added
 
 - Initial version.
