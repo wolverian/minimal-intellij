@@ -1,9 +1,9 @@
 <scheme name="Minimal" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2020-07-30T13:33:26</property>
+    <property name="created">2020-08-05T12:31:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-07-30T13:33:38</property>
+    <property name="modified">2020-08-05T12:31:38</property>
     <property name="originalScheme">Minimal</property>
   </metaInfo>
   <colors>
@@ -312,5 +312,8 @@
         <option name="FOREGROUND" value="e6" />
       </value>
     </option>
+    <option name="org.rust.LIFETIME" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="org.rust.MACRO" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="org.rust.TYPE_PARAMETER" baseAttributes="DEFAULT_IDENTIFIER" />
   </attributes>
 </scheme>
