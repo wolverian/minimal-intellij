@@ -4,7 +4,9 @@
 
 ## [Unreleased]
 
-- Add Rust support.
+### Added
+
+- First version of Rust support.
 
 ## [v0.0.1]
 
