@@ -4,8 +4,6 @@
 
 ## [Unreleased]
 
-## [0.0.2]
-
 ### Added
 
 - First version of Rust support.
