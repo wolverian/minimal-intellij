@@ -2,12 +2,6 @@
 
 # minimal-intellij changelog
 
-## [Unreleased]
-
-### Changed
-
-- Updated dependencies.
-
 ## [0.0.2]
 
 ### Added
@@ -17,6 +11,7 @@
 ### Changed
 
 - Slightly adjust background color to a warm, off-white color.
+- Updated dependencies.
 
 ## [v0.0.1]
 
