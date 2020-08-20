@@ -3,17 +3,11 @@
 # minimal-intellij changelog
 
 ## [Unreleased]
-### Added
 
 ### Changed
 
-### Deprecated
+- Updated dependencies.
 
-### Removed
-
-### Fixed
-
-### Security
 ## [0.0.2]
 
 ### Added
