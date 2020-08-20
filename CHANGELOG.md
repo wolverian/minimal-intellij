@@ -2,6 +2,8 @@
 
 # minimal-intellij changelog
 
+## [Unreleased]
+
 ## [0.0.2]
 
 ### Added
