@@ -8,6 +8,10 @@
 
 - First version of Rust support.
 
+### Changed
+
+- Slightly adjust background color to a warm, off-white color.
+
 ## [v0.0.1]
 
 ### Added
