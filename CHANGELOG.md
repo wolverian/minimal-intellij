@@ -6,6 +6,12 @@
 
 ### Changed
 
+- Support 2020.3. 
+
+### [0.0.3]
+
+### Changed
+
 - Updated dependencies.
 
 ## [0.0.2]
