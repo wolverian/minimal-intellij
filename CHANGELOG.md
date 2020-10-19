@@ -24,7 +24,7 @@
 
 - Slightly adjust background color to a warm, off-white color.
 
-## [v0.0.1]
+## [0.0.1]
 
 ### Added
 
