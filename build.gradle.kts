@@ -2,7 +2,7 @@ import org.jetbrains.changelog.closure
 import org.jetbrains.changelog.markdownToHTML
 
 plugins {
-    id("org.jetbrains.intellij") version "0.4.21"
+    id("org.jetbrains.intellij") version "0.6.5"
     id("org.jetbrains.changelog") version "1.0.0"
 }
 
