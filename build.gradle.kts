@@ -3,7 +3,7 @@ import org.jetbrains.changelog.markdownToHTML
 
 plugins {
     id("org.jetbrains.intellij") version "0.4.21"
-    id("org.jetbrains.changelog") version "1.0.0"
+    id("org.jetbrains.changelog") version "1.0.1"
 }
 
 // Import variables from gradle.properties file
