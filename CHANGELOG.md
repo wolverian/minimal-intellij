@@ -7,6 +7,8 @@
 
 ### Changed
 
+- Support 2021.1 EAP.
+
 ### Deprecated
 
 ### Removed
