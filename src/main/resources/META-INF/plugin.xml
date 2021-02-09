@@ -1,20 +1,14 @@
 <idea-plugin>
-    <id>me.ii.minimal-intellij</id>
-    <name>Minimal Theme</name>
-    <vendor email="ilmari.vacklin@iki.fi" url="https://github.com/wolverian">Ilmari Vacklin</vendor>
+    <id>org.jetbrains.plugins.template</id>
+    <name>Template</name>
+    <vendor>JetBrains</vendor>
 
-    <description><![CDATA[A minimal theme for IntelliJ-based editors.]]></description>
-
-    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
-         on how to target different products -->
+    <!-- Product and plugin compatibility requirements -->
+    <!-- https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
         <themeProvider id="e4831bd3-5328-4eb4-b4b4-cf6ce83608ab" path="/minimal-intellij.theme.json" />
     </extensions>
-
-    <actions>
-        <!-- Add your actions here -->
-    </actions>
 </idea-plugin>
