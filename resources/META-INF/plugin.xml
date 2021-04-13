@@ -1,0 +1,30 @@
+<idea-plugin>
+    <id>me.ii.minimal-intellij</id>
+    <name>Minimal Theme</name>
+    <version>0.1.0</version>
+    <vendor email="ilmari.vacklin@iki.fi" url="https://github.com/wolverian">Ilmari Vacklin</vendor>
+
+    <description><![CDATA[A minimal theme for IntelliJ-based editors.]]></description>
+
+    <change-notes><![CDATA[
+      Change to simple plugin project type.
+    ]]>
+    </change-notes>
+
+    <!-- please see https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html for description -->
+    <idea-version since-build="173.0"/>
+
+    <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <themeProvider id="e4831bd3-5328-4eb4-b4b4-cf6ce83608ab" path="/minimal-intellij.theme.json" />
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+
+</idea-plugin>
